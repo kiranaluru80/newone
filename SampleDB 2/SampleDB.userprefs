@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7AB9C493-D5B5-4610-801F-076A5FD16B1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleDB/CommunicationsPage.xaml.cs">
+    <Files>
+      <File FileName="SampleDB/CommunicationsPage.xaml.cs" Line="110" Column="50" />
+      <File FileName="SampleDB/organizations.json" Line="1" Column="1" />
+      <File FileName="SampleDB/getbannerdata.json" Line="1544" Column="1" />
+      <File FileName="SampleDB/SaveJsseModel.cs" Line="8" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB 2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="698" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB 2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="607" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleDB.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D93C4D9C-6BC3-4614-8F47-6511184A1640" />
+  <DisabledProjects>
+    <String>Droid/SampleDB.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>
